@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "7d66ffc83cbb754c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2566747e26ae4e96",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "880338739c40e1b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "21bb4b4b62b604f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc3592c794d4dd18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d46490b0c29e2f4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49cbe1dbb1d2356f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc5d1324001d41b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7ae79956a66a8f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2566747e26ae4e96",
+  "lastOpenFiles": [
+    "教學資料/【教學】文法單元.md",
+    "Templates/【Auto Insert】DateTime.md",
+    "Templates/【Note】詞性.md",
+    "Templates/【Note】學習方法.md",
+    "Templates/【Note】單字集.md",
+    "Templates/【Note】單字.md",
+    "Templates/【Note】Idioms.md",
+    "Home.md",
+    "README.md",
+    "apprehensive.md"
+  ]
+}
