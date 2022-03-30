@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "【工具】.md",
+            "file": "Article/睿答多益英語能力分析項目.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【工具】.md",
+                "file": "Article/睿答多益英語能力分析項目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,8 @@
   },
   "active": "2566747e26ae4e96",
   "lastOpenFiles": [
-    "【工具】.md",
+    "Article/睿答多益英語能力分析項目.md",
+    "Article/【工具箱】有關英文學習的數位工具整理.md",
     "Home.md",
     "Article/【工具箱】Anki.md",
     "Templates/【Note】Article.md",
@@ -97,7 +98,6 @@
     "Article/英文學習工作流.md",
     "Templates/【Note】Idioms.md",
     "Templates/【Note】單字.md",
-    "Article/【工具箱】Obsidian與Anki同步.md",
-    "教學資料/【教學】文法單元.md"
+    "Article/【工具箱】Obsidian與Anki同步.md"
   ]
 }
