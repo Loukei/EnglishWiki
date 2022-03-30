@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/【教學】文法單元.md",
+            "file": "【工具】.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/【教學】文法單元.md",
+                "file": "【工具】.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2566747e26ae4e96",
   "lastOpenFiles": [
+    "【工具】.md",
+    "Home.md",
+    "Article/【工具箱】Anki.md",
+    "Templates/【Note】Article.md",
     "Article/【教學】文法單元.md",
     "Article/英文學習工作流.md",
-    "Templates/【Note】Article.md",
     "Templates/【Note】Idioms.md",
     "Templates/【Note】單字.md",
-    "【工具箱】Obsidian與Anki同步.md",
-    "教學資料/【教學】文法單元.md",
-    "Templates/【Auto Insert】DateTime.md",
-    "Templates/【Note】詞性.md",
-    "Templates/【Note】學習方法.md"
+    "Article/【工具箱】Obsidian與Anki同步.md",
+    "教學資料/【教學】文法單元.md"
   ]
 }
