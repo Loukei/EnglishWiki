@@ -7,8 +7,12 @@
         "id": "2566747e26ae4e96",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Article/英文學習工作流.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Article/英文學習工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "2566747e26ae4e96",
   "lastOpenFiles": [
+    "Article/英文學習工作流.md",
+    "Templates/【Note】Article.md",
+    "Templates/【Note】Idioms.md",
+    "Templates/【Note】單字.md",
+    "【工具箱】Obsidian與Anki同步.md",
     "教學資料/【教學】文法單元.md",
     "Templates/【Auto Insert】DateTime.md",
     "Templates/【Note】詞性.md",
     "Templates/【Note】學習方法.md",
-    "Templates/【Note】單字集.md",
-    "Templates/【Note】單字.md",
-    "Templates/【Note】Idioms.md",
-    "Home.md",
-    "README.md",
-    "apprehensive.md"
+    "Templates/【Note】單字集.md"
   ]
 }
