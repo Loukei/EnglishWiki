@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/睿答多益英語能力分析項目.md",
+            "file": "Article/【工具箱】Obsidian與Anki同步.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "49cbe1dbb1d2356f",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/睿答多益英語能力分析項目.md",
+                "file": "Article/【工具箱】Obsidian與Anki同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "2566747e26ae4e96",
   "lastOpenFiles": [
+    "Article/【工具箱】Obsidian與Anki同步.md",
     "Article/睿答多益英語能力分析項目.md",
     "Article/【工具箱】有關英文學習的數位工具整理.md",
     "Home.md",
@@ -97,7 +99,6 @@
     "Article/【教學】文法單元.md",
     "Article/英文學習工作流.md",
     "Templates/【Note】Idioms.md",
-    "Templates/【Note】單字.md",
-    "Article/【工具箱】Obsidian與Anki同步.md"
+    "Templates/【Note】單字.md"
   ]
 }
