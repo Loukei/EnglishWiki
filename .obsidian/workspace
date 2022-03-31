@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/【工具箱】影音英文字典.md",
+            "file": "未命名.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/【工具箱】影音英文字典.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "2566747e26ae4e96",
   "lastOpenFiles": [
+    "未命名.md",
     "Article/【工具箱】影音英文字典.md",
     "Article/【工具箱】Anki.md",
     "Templates/【Note】學習方法.md",
@@ -97,7 +98,6 @@
     "Article/【工具箱】有關英文學習的數位工具整理.md",
     "Article/【工具箱】Obsidian與Anki同步.md",
     "Article/睿答多益英語能力分析項目.md",
-    "Home.md",
-    "Templates/【Note】Article.md"
+    "Home.md"
   ]
 }
