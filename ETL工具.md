@@ -17,6 +17,6 @@ publish: True
 - dagster
 - Kettle
 - n8n
-- # Informatica
+- Informatica
 
 ## Reference
