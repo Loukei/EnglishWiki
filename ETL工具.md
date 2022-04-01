@@ -17,6 +17,7 @@ publish: True
 - dagster
 - Kettle
 - n8n
-- Informatica
+- Informatica(商業軟體，費用較高)
+- airflow
 
 ## Reference
