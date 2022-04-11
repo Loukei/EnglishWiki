@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/網路文章/櫻花妹靠Netflix追劇多益衝破900分 英文大躍進有賴六大步驟 _ 新知學習 _ 文教 _ 聯合新聞網.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/網路文章/櫻花妹靠Netflix追劇多益衝破900分 英文大躍進有賴六大步驟 _ 新知學習 _ 文教 _ 聯合新聞網.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2566747e26ae4e96",
   "lastOpenFiles": [
-    "Article/網路文章/櫻花妹靠Netflix追劇多益衝破900分 英文大躍進有賴六大步驟 _ 新知學習 _ 文教 _ 聯合新聞網.md",
+    "README.md",
+    "Home.md",
     "Article/英文學習工作流.md",
+    "Article/網路文章/櫻花妹靠Netflix追劇多益衝破900分 英文大躍進有賴六大步驟 _ 新知學習 _ 文教 _ 聯合新聞網.md",
     "Article/【工具箱】有關英文學習的數位工具整理.md",
     "Article/睿答多益英語能力分析項目.md",
     "Article/【靈感】ETL工具.md",
     "Article/【心得】文法學習的方式.md",
     "Article/【教學】文法單元.md",
-    "Article/【工具箱】沙拉查詞.md",
-    "Article/【工具箱】影音英文字典.md",
-    "Article/【工具箱】Anki.md"
+    "Article/【工具箱】沙拉查詞.md"
   ]
 }
