@@ -13,5 +13,6 @@ My English Wiki use Obsidian.md.
 	- 網路上的單字集(csv,pdf,db,...)
 	- 嵌入筆記用的png,mp3,...
 - Templates: 用來保存模板與各種熱字串的資料夾
-- 
+- Diary: 英文學習的日記
 
+---
