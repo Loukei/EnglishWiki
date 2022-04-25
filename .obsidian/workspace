@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/【日記】學習英文方法的檢討與回顧.md",
+            "file": "Article/【心得】文法學習的方式.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "文法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/【日記】學習英文方法的檢討與回顧.md",
+                "file": "Article/【心得】文法學習的方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2566747e26ae4e96",
   "lastOpenFiles": [
+    "Article/【心得】文法學習的方式.md",
     "Diary/【日記】學習英文方法的檢討與回顧.md",
+    "慣用語/實用例句.md",
+    "詞性/詞性.md",
+    "Home.md",
+    "README.md",
+    "Article/【工具箱】英文學習資源.md",
     "Templates/【Note】Learning_Diary.md",
     "Templates/【Note】單字.md",
-    "Templates/【Note】Idioms.md",
-    "Templates/【Note】Article.md",
-    "README.md",
-    "Home.md",
-    "Article/英文學習工作流.md",
-    "Article/網路文章/櫻花妹靠Netflix追劇多益衝破900分 英文大躍進有賴六大步驟 _ 新知學習 _ 文教 _ 聯合新聞網.md",
-    "Article/【工具箱】有關英文學習的數位工具整理.md"
+    "Templates/【Note】Idioms.md"
   ]
 }
