@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/【心得】文法學習的方式.md",
+            "file": "Diary/【日記】學習英文方法的檢討與回顧.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/【心得】文法學習的方式.md",
+                "file": "Diary/【日記】學習英文方法的檢討與回顧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2566747e26ae4e96",
   "lastOpenFiles": [
-    "Article/【心得】文法學習的方式.md",
-    "Home.md",
-    "Grammer/Grammer Index.md",
     "Diary/【日記】學習英文方法的檢討與回顧.md",
-    "慣用語/實用例句.md",
-    "詞性/詞性.md",
     "README.md",
-    "Article/【工具箱】英文學習資源.md",
-    "Templates/【Note】Learning_Diary.md",
-    "Templates/【Note】單字.md"
+    "Home.md",
+    "Article/網路文章/有增加英文單字量的方法？趕快把這個記憶 SOP 植入大腦！ - 米小鹹｜英文自學有玩沒完？！ 113a42a281fe4232a161740b5d9b754c.md",
+    "Article/多益考試的準備方向.md",
+    "Article/多益題型 - 照片描述.md",
+    "Article/多益題型 - 應答問題.md",
+    "未命名.md",
+    "Grammer/Grammer Index.md",
+    "Article/【心得】文法學習的方式.md"
   ]
 }
