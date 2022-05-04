@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/英文閱讀技巧.md",
+            "file": "Article/英文學習工作流.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235,
-    "collapsed": true
+    "width": 235
   },
   "right": {
     "id": "49cbe1dbb1d2356f",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/英文閱讀技巧.md",
+                "file": "Article/英文學習工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "2566747e26ae4e96",
   "lastOpenFiles": [
+    "Article/英文學習工作流.md",
+    "README.md",
+    "Home.md",
     "Article/英文閱讀技巧.md",
+    "Article/網路文章/Learning to learn note-taking and vocabulary.md",
+    "Article/網路文章/Re [問卦] 有沒有英文單字比數學公式難背的八卦 - 精華區 ck54th122 - 批踢踢實業坊 809f461f66084d61ac2ea78fd878dc44.md",
+    "Articles.md",
     "Daily_Essay/每日作文.md",
     "Daily_Essay/【Essay】Moderna Seeks COVID Shots for Children under 5.md",
-    "Templates/【Note】閱讀心得.md",
-    "Article/【工具箱】英文學習資源.md",
-    "Article/【心得】文法學習的方式.md",
-    "Article/【教學】文法單元.md",
-    "Article/【靈感】ETL工具.md",
-    "Article/睿答多益英語能力分析項目.md",
-    "Article/多益題型整理.md"
+    "Templates/【Note】閱讀心得.md"
   ]
 }

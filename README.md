@@ -8,7 +8,7 @@ My English Wiki use Obsidian.md.
 	- 如何準備考試?
 	- 如何解題?
 	- 討論各種學習工具如Anki, Quizlet, Google Sheet...
-	- 建立學習的工作流程
+	- [[英文學習工作流]]
 - Attachment: 附件
 	- 網路上的單字集(csv,pdf,db,...)
 	- 嵌入筆記用的png,mp3,...
