@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Essay/每日作文.md",
+            "file": "Article/英文閱讀技巧.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "閱讀",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Essay/每日作文.md",
+                "file": "Article/英文閱讀技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2566747e26ae4e96",
   "lastOpenFiles": [
+    "Article/英文閱讀技巧.md",
     "Daily_Essay/每日作文.md",
+    "Daily_Essay/【Essay】Moderna Seeks COVID Shots for Children under 5.md",
+    "Templates/【Note】閱讀心得.md",
     "Article/【工具箱】英文學習資源.md",
     "Article/【心得】文法學習的方式.md",
     "Article/【教學】文法單元.md",
     "Article/【靈感】ETL工具.md",
     "Article/睿答多益英語能力分析項目.md",
-    "Article/多益題型整理.md",
-    "Article/英文學習工作流.md",
-    "【News】Inside China’s Zero-Covid Fortress, Xi Admits No Doubts.md",
-    "Templates/【Note】閱讀心得.md"
+    "Article/多益題型整理.md"
   ]
 }

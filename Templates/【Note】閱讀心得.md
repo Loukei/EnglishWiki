@@ -9,9 +9,9 @@ publish: True
 
 # {{Title}}
 
-## Reports
+[[每日作文]]
 
-describe the news
+## Reports
 
 ## Notes
 
