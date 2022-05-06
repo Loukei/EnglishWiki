@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2566747e26ae4e96",
+        "id": "37983ee5328b4be7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/英文學習工作流.md",
+            "file": "Attachment/單字集/資料庫需求.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/英文學習工作流.md",
+                "file": "Attachment/單字集/資料庫需求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2566747e26ae4e96",
+  "active": "37983ee5328b4be7",
   "lastOpenFiles": [
+    "Attachment/單字集/資料庫需求.md",
+    "Attachment/單字集/大學入學考試中心_高中英文參考詞彙表.pdf",
     "Article/英文學習工作流.md",
     "README.md",
     "Home.md",
+    "單字庫/單字庫.md",
+    "Article/Spaced Repetition Algorithm.md",
     "Article/英文閱讀技巧.md",
     "Article/網路文章/Learning to learn note-taking and vocabulary.md",
-    "Article/網路文章/Re [問卦] 有沒有英文單字比數學公式難背的八卦 - 精華區 ck54th122 - 批踢踢實業坊 809f461f66084d61ac2ea78fd878dc44.md",
-    "Articles.md",
-    "Daily_Essay/每日作文.md",
-    "Daily_Essay/【Essay】Moderna Seeks COVID Shots for Children under 5.md",
-    "Templates/【Note】閱讀心得.md"
+    "Article/網路文章/Re [問卦] 有沒有英文單字比數學公式難背的八卦 - 精華區 ck54th122 - 批踢踢實業坊 809f461f66084d61ac2ea78fd878dc44.md"
   ]
 }
