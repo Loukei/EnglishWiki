@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Attachment/單字集/資料庫需求.md",
+            "file": "Article/網路文章/台大教授的英文聽力及口說秘訣 -- 3 分鐘帶你了解史嘉琳教授的回音法 _ CLN新貴語文顧問.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "閱讀",
+                "query": "回音",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 235,
+    "collapsed": true
   },
   "right": {
     "id": "49cbe1dbb1d2356f",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/單字集/資料庫需求.md",
+                "file": "Article/網路文章/台大教授的英文聽力及口說秘訣 -- 3 分鐘帶你了解史嘉琳教授的回音法 _ CLN新貴語文顧問.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,8 @@
   },
   "active": "37983ee5328b4be7",
   "lastOpenFiles": [
+    "Article/網路文章/台大教授的英文聽力及口說秘訣 -- 3 分鐘帶你了解史嘉琳教授的回音法 _ CLN新貴語文顧問.md",
+    "Article/網路文章/Re [問卦] 有沒有英文單字比數學公式難背的八卦 - 精華區 ck54th122 - 批踢踢實業坊 809f461f66084d61ac2ea78fd878dc44.md",
     "Attachment/單字集/資料庫需求.md",
     "Attachment/單字集/大學入學考試中心_高中英文參考詞彙表.pdf",
     "Article/英文學習工作流.md",
@@ -96,8 +99,6 @@
     "Home.md",
     "單字庫/單字庫.md",
     "Article/Spaced Repetition Algorithm.md",
-    "Article/英文閱讀技巧.md",
-    "Article/網路文章/Learning to learn note-taking and vocabulary.md",
-    "Article/網路文章/Re [問卦] 有沒有英文單字比數學公式難背的八卦 - 精華區 ck54th122 - 批踢踢實業坊 809f461f66084d61ac2ea78fd878dc44.md"
+    "Article/英文閱讀技巧.md"
   ]
 }
