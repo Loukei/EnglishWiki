@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/【日記】學習英文方法的檢討與回顧.md",
+            "file": "Article/【工具箱】有關英文學習的數位工具整理.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/【日記】學習英文方法的檢討與回顧.md",
+                "file": "Article/【工具箱】有關英文學習的數位工具整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "37983ee5328b4be7",
   "lastOpenFiles": [
+    "Article/【工具箱】有關英文學習的數位工具整理.md",
+    "【工具箱】Vocabularycom.md",
+    "Article/【工具箱】Anki.md",
+    "Home.md",
     "Diary/【日記】學習英文方法的檢討與回顧.md",
     "README.md",
     "Attachment/單字集/Sanda_Toeic_20220512.csv",
     "Attachment/單字集/Mason2000/Mason2000.csv",
     "Attachment/單字集/資料庫需求.md",
-    "Attachment/單字集/大學入學考試中心_高中英文參考詞彙表.pdf",
-    "Attachment/單字集/未命名.md",
-    "Home.md",
-    "Article/英文學習工作流.md",
-    "Article/網路文章/台大教授的英文聽力及口說秘訣 -- 3 分鐘帶你了解史嘉琳教授的回音法 _ CLN新貴語文顧問.md"
+    "Attachment/單字集/大學入學考試中心_高中英文參考詞彙表.pdf"
   ]
 }
