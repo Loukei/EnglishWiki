@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "37983ee5328b4be7",
+        "id": "1fc6260627fd93dd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/【日記】學習英文方法的檢討與回顧.md",
+            "file": "Santa 多益 - 解題技巧.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/【日記】學習英文方法的檢討與回顧.md",
+                "file": "Santa 多益 - 解題技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37983ee5328b4be7",
+  "active": "1fc6260627fd93dd",
   "lastOpenFiles": [
+    "Santa 多益 - 解題技巧.md",
+    "Santa 多益 - 解題技巧 - 選擇題問句 - 建議、請求句型.md",
+    "Article/英文學習工作流.md",
+    "Article/睿答多益英語能力分析項目.md",
+    "Article/多益題型 - 應答問題.md",
     "Diary/【日記】學習英文方法的檢討與回顧.md",
     "Article/【工具箱】有關英文學習的數位工具整理.md",
-    "【工具箱】Vocabularycom.md",
+    "Article/【工具箱】Vocabularycom.md",
     "Article/【工具箱】Anki.md",
-    "Home.md",
-    "README.md",
-    "Attachment/單字集/Sanda_Toeic_20220512.csv",
-    "Attachment/單字集/Mason2000/Mason2000.csv",
-    "Attachment/單字集/資料庫需求.md",
-    "Attachment/單字集/大學入學考試中心_高中英文參考詞彙表.pdf"
+    "Home.md"
   ]
 }
