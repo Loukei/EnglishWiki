@@ -39,27 +39,11 @@
   "insertCommaAfterFrontMatterCompletion": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Learning": {
-      "Learning": {
-        "currentFile": {
+    "Common": {
+      "Common": {
+        "frontMatter": {
           "count": 1,
-          "lastUpdated": 1651479727738
-        }
-      }
-    },
-    "###": {
-      "###": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1652858519665
-        }
-      }
-    },
-    "推薦文章功能": {
-      "推薦文章功能": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1652970662689
+          "lastUpdated": 1657284074146
         }
       }
     }

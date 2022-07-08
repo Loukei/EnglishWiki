@@ -14,5 +14,5 @@ My English Wiki use Obsidian.md.
 	- 嵌入筆記用的png,mp3,...
 - Templates: 用來保存模板與各種熱字串的資料夾
 - Diary: 英文學習的日記
-
+//*[@id="video-title"]/@href
 ---
