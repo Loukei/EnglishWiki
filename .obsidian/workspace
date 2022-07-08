@@ -7,12 +7,8 @@
         "id": "1fc6260627fd93dd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "未命名.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +85,14 @@
   "active": "1fc6260627fd93dd",
   "lastOpenFiles": [
     "未命名.md",
+    "Templates/【Note】Course_Note.md",
+    "Templates/【Note】閱讀心得.md",
+    "Templates/【Note】單字.md",
     "README.md",
     "Diary/【日記】學習英文方法的檢討與回顧.md",
     "Templates/【Auto Insert】DateTime.md",
     "Templates/Form Templates/Test_Template.md",
     "Templates/【Note】Article.md",
-    "Article/Santa 多益 - 解題技巧.md",
-    "Article/Santa 多益 - 解題技巧 - 選擇題問句 - 建議、請求句型.md",
-    "Article/英文學習工作流.md",
-    "Article/睿答多益英語能力分析項目.md"
+    "Article/Santa 多益 - 解題技巧.md"
   ]
 }
