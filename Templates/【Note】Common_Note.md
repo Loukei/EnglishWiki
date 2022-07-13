@@ -6,3 +6,5 @@ aliases:
 notetype: "common"
 publish: True
 ---
+
+# {{Title}}

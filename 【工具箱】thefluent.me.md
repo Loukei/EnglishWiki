@@ -3,7 +3,7 @@ ID: 202207082045
 create_date: 2022-07-08
 tags: []	
 aliases:
-notetype: "Article"
+notetype: "common"
 publish: True
 ---
 
@@ -11,7 +11,7 @@ publish: True
 
 # 【工具箱】thefluent.me
 
-一款
+一個練習英文口說的網站，使用者可以上傳自己的語音來
 
 ## Reference
 
