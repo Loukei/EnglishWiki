@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "【工具箱】Write & Improve with Cambridge.md",
+            "file": "Article/【工具箱】NGSL單詞表.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【工具箱】Write & Improve with Cambridge.md",
+                "file": "Article/【工具箱】NGSL單詞表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1fc6260627fd93dd",
   "lastOpenFiles": [
+    "Article/【工具箱】Speechace API.md",
+    "Article/【工具箱】ELSA Speak.md",
+    "Article/【工具箱】NGSL單詞表.md",
     "Diary/【日記】學習英文方法的檢討與回顧.md",
+    "Article/多益題型整理.md",
+    "Article/【工具箱】Write & Improve with Cambridge.md",
     "Inspirations/Inspiration_Inbox.md",
     "課程/Santa 多益 - 解題技巧 - 選擇題問句 - 聽力 Part2.md",
     "課程/Santa 多益 - 解題技巧.md",
-    "課程/Santa 多益 - 解題技巧 - 選擇題問句 - 建議、請求句型.md",
-    "Templates/【Note】Article.md",
-    "Templates/【Note】Common_Note.md",
-    "Templates/【Note】Course_Note.md",
-    "Templates/【Note】Common_Note_Article.md",
-    "Article/【工具箱】Vocabularycom.md"
+    "課程/Santa 多益 - 解題技巧 - 選擇題問句 - 建議、請求句型.md"
   ]
 }
