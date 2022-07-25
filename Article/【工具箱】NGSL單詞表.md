@@ -9,7 +9,7 @@ publish: True
 
 # 【工具箱】NGSL單詞表
 
-NGSL
+NGSL高頻單字表
 
 ## Reference
 
